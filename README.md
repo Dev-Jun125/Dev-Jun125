@@ -28,5 +28,7 @@
 
 <div align="center">
   <a href="http://solved.ac/dev_jun125"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dev_jun125"/></a> <a href="http://solved.ac/dev_jun125"><img src="http://mazandi.herokuapp.com/api?handle=dev_jun125&theme=dark"/></a>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Jun125&hide_border=true&layout=compact&theme=radical&card_width=250)
+
 </div>
 
