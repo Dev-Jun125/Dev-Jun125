@@ -2,7 +2,7 @@
 <p align="center">🇰🇷</p>
 
 <div align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.github.com%2FDEV-JUN125&count_bg=%231C2C5B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDev-Jun125&count_bg=%234AA839&title_bg=%23CE1D98&icon=nextdoor.svg&icon_color=%232095D8&title=Hello&edge_flat=false"/></a>
 </div>
 
 <h4 align="center">Skill</h4>
