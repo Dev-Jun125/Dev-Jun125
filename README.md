@@ -20,7 +20,7 @@
 |:---:|:---:|---|
 |<a href="https://cafe.naver.com/eofl7942">Fun.D</a>|21.02 - 21.06|Fun.D 6기 이웃집닥터 개발자|
 |<a href="https://ssafy.com/">SSAFY</a>|22.07 - 23.06|삼성 청년 SW 아카데미 8th 전공 JAVA 트랙|
-|<a href="https://samsungalgorithm.com/">삼성전자 DX 하계 알고리즘 역량 강화 특강</a>|23.07 - ing|삼성전자 DX 하계 알고리즘 역량 강화 특강|
+|<a href="https://samsungalgorithm.com/">삼성전자 DX 하계 알고리즘 역량 강화 특강</a>|23.07 - 23.08|삼성전자 DX 하계 알고리즘 역량 강화 특강|
 
 
 </div>
