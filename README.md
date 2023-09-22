@@ -22,7 +22,7 @@
 |<a href="https://ssafy.com/">SSAFY</a>|22.07 - 23.06|삼성 청년 SW 아카데미 8th 전공 JAVA 트랙|
 |<a href="https://samsungalgorithm.com/">삼성전자 DX 하계 알고리즘 역량 강화 특강</a>|23.07 - 23.08|삼성전자 DX 하계 알고리즘 역량 강화 특강|
 
-
+ 
 </div>
 <br>
 <br>
